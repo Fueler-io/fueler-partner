@@ -59,9 +59,19 @@
 	line-height: 1.6;
 
 }
+.background-gradient {
+	padding: 2px;
+	border-radius: 16px;
+	background: linear-gradient(90deg, #40BAFF 1.75%, #687FFF 36.04%, #A953FF 68.27%, #FB25FF 100%);
+	
+}
+.background-white{
+	background: #fff;
+	border-radius: 16px;
+}
 .money-card{
-	background: #F5FEFF;
-	border: 1px solid #12E3FF;
+	background: linear-gradient(90deg, rgba(64, 186, 255, 0.05) 1.75%, rgba(104, 127, 255, 0.05) 36.04%, rgba(169, 83, 255, 0.05) 68.27%, rgba(251, 37, 255, 0.05) 100%);
+	border: none;
 	border-radius: 16px;
 }
 .money-card-number{

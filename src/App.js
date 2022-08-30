@@ -92,20 +92,24 @@ function App() {
 			
 			<div className="row justify-content-center my-5 align-items-center">
 				<div className="col-md-11">
-					<div className="money-card card">
-						<div className="card-body text-center py-5">
-							<div className='money-card-number'>
-								<span className='text-gradient'>$6,849</span>
-							</div>
-							<div className="row justify-content-center">
-								<div className="col-md-7">
-									<div className='my-4'>
-										<p className='fw-500 text-primary'>I’ve paid out over two million dollars to our talented fuelers, and they’ve helped me over <b>1,000</b> projects get done successfully</p>
+					<div className='background-gradient'>
+						<div className='background-white'>
+							<div className="money-card card p-1">
+								<div className="card-body text-center py-5">
+									<div className='money-card-number'>
+										<span className='text-gradient'>$6,849</span>
+									</div>
+									<div className="row justify-content-center">
+										<div className="col-md-7">
+											<div className='my-4'>
+												<p className='fw-500 text-primary'>I’ve paid out over two million dollars to our talented fuelers, and they’ve helped me over <b>1,000</b> projects get done successfully</p>
+											</div>
+										</div>
+									</div>
+									<div className='pt-3'>
+										<a href="https://fueler.io/register" className='btn btn-primary px-4 btn-lg text-primary'>Get Started</a>
 									</div>
 								</div>
-							</div>
-							<div className='pt-3'>
-								<a href="https://fueler.io/register" className='btn btn-primary px-4 btn-lg text-primary'>Get Started</a>
 							</div>
 						</div>
 					</div>

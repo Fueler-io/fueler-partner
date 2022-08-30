@@ -1,11 +1,11 @@
 import partner_dp from './images/DP/Vikas.png';
 
 import twitter_icon from './images/social_icons/twitter.svg';
-import behance_icon from './images/social_icons/behance.svg';
-import dribbble_icon from './images/social_icons/dribbble.svg';
+// import behance_icon from './images/social_icons/behance.svg';
+// import dribbble_icon from './images/social_icons/dribbble.svg';
+// import linkedin_icon from './images/social_icons/linkedin.svg';
 import facebook_icon from './images/social_icons/facebook.svg';
 import insta_icon from './images/social_icons/insta.svg';
-import linkedin_icon from './images/social_icons/linkedin.svg';
 
 import fatima_profile from './images/talent_card/Fatima.png'
 import anshu_profile from './images/talent_card/Anshu.png'

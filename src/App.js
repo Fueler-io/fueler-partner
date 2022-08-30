@@ -44,7 +44,7 @@ function App() {
 						<div className="partner-header-deatils">
 
 							<h1 className='text-primary fw-bold'>Vikas Singh</h1>
-							<p className='text-lightgray fw-500 my-3'>Building AutopilotGeek and growing from $0 to $250k ARR l Helping 🇺🇲 Tech Startups, Entrepreneur, Coaches, TEDx, Fortune 500</p>
+							<p className='text-lightgray fw-500 my-3'>Building AutopilotGeek and growing from $0 to $250k ARR l Helping Tech Startups, Entrepreneur, Coaches, TEDx, Fortune 500</p>
 							<div className='social-icons pt-2 d-flex justify-content-start align-items-center'>
 								<div className='mr-2'>
 									<a href="https://twitter.com/learnwithvikash">
@@ -102,7 +102,7 @@ function App() {
 									<div className="row justify-content-center">
 										<div className="col-md-7">
 											<div className='my-4'>
-												<p className='fw-500 text-primary'>I’ve paid out over two million dollars to our talented fuelers, and they’ve helped me over <b>1,000</b> projects get done successfully</p>
+												<p className='fw-500 text-primary'>The total amount I have sent to skilled individuals on Fueler</p>
 											</div>
 										</div>
 									</div>
@@ -122,7 +122,7 @@ function App() {
 				<div className="col-md-12">
 					<div className="projects-done mb-4 pb-2">
 						<div className="heading">
-							<h1 className='fw-bold text-primary text-center'>200+ Projects Done in these domains</h1>
+							<h1 className='fw-bold text-primary text-center'>100+ Projects Done in these domains</h1>
 						</div>
 					</div>
 
